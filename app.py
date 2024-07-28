@@ -6,7 +6,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="vflute123!",
+    password="vflute123!", #WRITE YOUR DB CONFIG PASSWORD HERE
     database="fashion_db"
 )
 
